@@ -33,10 +33,10 @@
         all: initial;
         position: fixed;
         top: 25vw;
-        left: 5vw;
+        left: 8vw;
     }
     .calculator{
-        width: 90vw;
+        width: 85vw;
     }
     .title{
         all: none;
@@ -45,7 +45,7 @@
         margin: 0px;
         padding: 7vw 0px 0px 0px;
         text-align: center;
-        font-size: 8vw;
+        font-size: 7.5vw;
         background: #1976d2;
         color: white;
     }
